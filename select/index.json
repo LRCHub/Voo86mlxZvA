@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Always Remember Us This Way",
+  "base_artist": "Lady Gaga",
+  "createdAt": "2026-02-22T02:26:02.322857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/01_Always_Remember_Us_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Noelle Johnson",
+      "has_synced": true,
+      "path": "select/02_Always_Remember_Us_This_Way_Noelle_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Always_Remember_Us_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/04_Always_Remember_Us_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/05_Always_Remember_Us_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Benedetta Caretta",
+      "has_synced": false,
+      "path": "select/06_Always_Remember_Us_This_Way_Benedetta_Caretta.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/07_Always_Remember_Us_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/08_Always_Remember_Us_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Lucy Thomas",
+      "has_synced": false,
+      "path": "select/09_Always_Remember_Us_This_Way_Lucy_Thomas.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/10_Always_Remember_Us_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Always_Remember_Us_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "always remember us this way",
+      "artist": "lady gaga",
+      "has_synced": true,
+      "path": "select/12_always_remember_us_this_way_lady_gaga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Always Remember Us This Way",
+      "artist": "Luke Evans",
+      "has_synced": true,
+      "path": "select/13_Always_Remember_Us_This_Way_Luke_Evans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Always Remember Us This Way",
+      "artist": "Lady Gaga",
+      "has_synced": false,
+      "path": "select/pl_01_Always_Remember_Us_This_Way_Lady_Gaga.txt"
+    }
+  ]
+}
